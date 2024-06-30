@@ -1,0 +1,1 @@
+A Machine Learning end to end model for predicting flight fare based on a highly imbalanced dataset ,which upon performing EDA operations and creating and the model gives a high accuracy of price predicted across different flight routes
