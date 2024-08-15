@@ -86,4 +86,4 @@ Future Improvements:
 ----------------------
 Feature Engineering: Explore additional features that could enhance model performance.
 Algorithm Tuning: Further fine-tuning of hyperparameters to improve predictive accuracy.
-Deployment: Deploy the model as a web service using Flask or Streamlit or Docker or integrate into a production environment ( here we used StreamLit)
+Deployment: Deploy the model as a web service using Flask or Streamlit or Docker or integrate into a production environment ( here we used StreamLit). More improvements and deployment as a indpendent web application is in progress.
